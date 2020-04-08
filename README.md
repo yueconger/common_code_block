@@ -9,3 +9,6 @@
 - [ ] 处理url中文转解码问题
 
 ---
+
+- [ ] my_user_agents.py
+- [ ] 自定义scrapy下随机请求头UserAgent
