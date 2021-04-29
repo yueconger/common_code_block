@@ -12,3 +12,9 @@
 
 - [ ] my_user_agents.py
 - [ ] 自定义scrapy下随机请求头UserAgent
+
+---
+
+- [ ] db_projects
+- [ ] mysql数据库通用使用模版
+
